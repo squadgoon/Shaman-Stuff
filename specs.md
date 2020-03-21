@@ -18,6 +18,7 @@
 ### [Elemental Flurry – 31/20/0](https://classic.wowhead.com/talent-calc/shaman/550031052030151-5005202105)
 - A less typical “enhancement” build but is capable of insane parses with good luck. This build has the flexibility to be used as a full Elemental ranged DPS spec as well as an insanely bursty melee DPS spec. A great Shaman will switch between the two as some fights favor melee, and others ranged dps. Requires a lot of high level gear, as there is no bonus hit for melee nor spells.
 
+## Elemental
 ### [Elemental Fury 32/5/14](https://classic.wowhead.com/talent-calc/shaman/550031052031151-5-05005301)
 -  Typical raiding spec. Benefits from spell hit in Nature’s Guidance and reduced totem mana cost.
 ### [Nature’s Swiftness 30/0/21](https://classic.wowhead.com/talent-calc/shaman/55003105203015--0510530100501)
